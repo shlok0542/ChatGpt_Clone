@@ -1,0 +1,15 @@
+.UserMassage{
+    background-color: rgb(226, 214, 214);
+    width:fit-content;
+    padding: 10px;
+    border-radius: 20px;
+    margin: 5px 0;
+    text-align:right;
+    display: flex;
+    justify-self: right; 
+}
+.RemoveScrollbar::-webkit-scrollbar{
+       
+       scroll-behavior: smooth;
+        overflow-x: hidden; 
+}  

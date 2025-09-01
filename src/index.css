@@ -1,0 +1,14 @@
+@import "tailwindcss";
+@import 'github-markdown-css/github-markdown.css';
+
+.markdown-body {
+  padding: 2rem;
+  background: #fff;
+  color: #333;
+}
+
+@keyframes fadeIn {
+  to {
+    opacity: 1;
+  }
+}
